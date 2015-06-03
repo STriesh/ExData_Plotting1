@@ -50,7 +50,7 @@ png(filename = "plot2.png")
 # y= Global Active Power (kilowats) vs. x= time series in minutes over two days 
 # used the functions ********************************
 # 
-# plot1.png dimension are: 
+# plot2.png dimension are: 
 #                         width = 480 pixels= 5 inches
 #                         height= 480 pixels= 5 inches
 # 
